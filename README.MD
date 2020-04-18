@@ -1,1 +1,2 @@
-THIS PROJECT IS JUST DEMO how to use git
+This project is just demo how to use git
+
